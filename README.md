@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3 align="center">Sisteam de Gerenciamento de Bar</h3>
+<h3 align="center">Sistema de Gerenciamento de Bar</h3>
 
 <p align="center">Trabalho final da disciplina de Programação Orientada a Objetos II</p>
 
